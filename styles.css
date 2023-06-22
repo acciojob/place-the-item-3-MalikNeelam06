@@ -1,6 +1,6 @@
 
 /* Your CSS Code here. */
-.flex-container{
+.holder{
 	display:flex;
 	justify-content: space-evenly;
 }
